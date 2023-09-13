@@ -1,4 +1,4 @@
-![Banner](https://github.com/sakshityagi463/sakshityagi463/assets/139478287/d5413666-f21c-432e-ba18-fd73709412f9)![github-header-image](https://github.com/sakshityagi463/sakshityagi463/assets/139478287/1b43a8a5-81a8-40c9-b3e1-3fcbe91ad516)
+![github-header-image](https://github.com/sakshityagi463/sakshityagi463/assets/139478287/1b43a8a5-81a8-40c9-b3e1-3fcbe91ad516)
 
 <h1 align="center">Hi 👋, I'm Sakshi Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
