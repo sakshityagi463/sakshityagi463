@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python,JavaScript,Node.js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sakshi-tyagi-3104a7223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWx1hEDtPTUOUBvgdNW4X8Q%3D%3D](https://www.linkedin.com/in/sakshi-tyagi-3104a7223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWx1hEDtPTUOUBvgdNW4X8Q%3D%3D)
-
 - 📫 How to reach me **https://twitter.com/sakshityagi1910?s=09**
 
 - ⚡ Fun fact **I am funny**
