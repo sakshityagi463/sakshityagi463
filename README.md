@@ -5,7 +5,7 @@
 
 <img  align = "right" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" alt="coding" width ="400">
 
-- 🌱 I’m currently learning **Python,JavaScript,Node.js**
+- 🌱 I’m currently learning **Python, MySQL , Oracle SQL , Excel , Power BI **
 
 - 📫 How to reach me **https://twitter.com/sakshityagi1910?s=09**
 
