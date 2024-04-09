@@ -27,11 +27,12 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
     </a> 
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/1200px-Microsoft_Excel_2013_logo.svg.png" alt="excel" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Excel_2013_logo.svg/1200px-Microsoft_Excel_2013_logo.svg.png" alt="excel" width="40" height="40"/> 
     </a> 
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
         <img src="https://seeklogo.com/images/P/power-bi-logo-0C6C37E575-seeklogo.com.png" alt="powerbi" width="40" height="40"/> 
-    </a> 
+    </a>
+
 </p>
 
 
