@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/sakshityagi463/sakshityagi463/assets/139478287/1b43a8a5-81a8-40c9-b3e1-3fcbe91ad516)
 
 <h1 align="center">Hi 👋, I'm Sakshi Tyagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner and future-focused data analyst from India.</h3>
 
 <img  align = "right" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" alt="coding" width ="400">
 
@@ -27,14 +27,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
     </a> 
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
-</a> 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/452/power-bi.png" alt="powerbi" width="40" height="40"/> 
-</a>
-
+        <img src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> 
+    </a> 
+    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://img.icons8.com/color/452/power-bi.png" alt="powerbi" width="40" height="40"/> 
     </a>
-
 </p>
 
 
